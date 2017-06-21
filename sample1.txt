@@ -1,0 +1,12 @@
+a=[1,2,3,4]
+
+i=0
+
+n=len(a)
+
+while(i<n):
+  
+  i=i+1
+
+  print i
+  
